@@ -1,0 +1,5 @@
+.env
+.env.local
+.env.*.local
+chroma_db/
+venv/
